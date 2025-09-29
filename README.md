@@ -21,6 +21,9 @@ Key Metrics
 - Survey Analytics (agreement/disagreement scoring, percentage breakdowns)
 - Data Storytelling (insights, patterns, recommendations)
 
+## VISUALIZATION
+![](
+
 ## ANALYSIS 
 The employee engagement survey results were analyzed to determine which questions respondents agreed or disagreed with most, and to uncover trends by department and role. Agreement was defined as selecting “Agree” or “Strongly Agree”, while disagreement was defined as “Disagree” or “Strongly Disagree”. Responses marked “Not Applicable” were excluded to ensure meaningful comparisons.
 
@@ -32,6 +35,27 @@ Patterns by department revealed that Human Resources, Communications, and the Ex
 
 Taken together, the results suggest that while the organization excels in defining expectations and fostering inclusivity, it faces challenges in building recognition systems, ensuring accountability, and supporting workplace relationships. These gaps are most pronounced among frontline staff and in operational departments.
 
+you can check out the 3 business questions with actionable recommendations. you can see it here [HERE](https://github.com/enogift1999-ui/Employee-Survey-analysis/blob/main/report.docx)
+
 ## CONCLUSION
+The employee engagement survey revealed strong organizational communication, especially around job clarity, supervisor support, and diversity practices. However, it also identified consistent weaknesses in recognition, accountability, and interpersonal connection across many departments and roles. These areas are critical to long-term employee satisfaction and retention. Targeted actions such as formalizing recognition, improving supervisory skills, and fostering workplace relationships can address these gaps. By acting on this data-driven insight, the organization can not only boost morale and engagement but also build a more connected, productive, and resilient workforce.
 
 ## RECOMMENDATION 
+Based on the analysis of survey responses, the following targeted recommendations are proposed to enhance employee satisfaction, build a more supportive work culture, and strengthen overall organizational performance:
+
+1. Implement a Formal Recognition Program: Many employees expressed dissatisfaction with the level of recognition for their work. Introducing a structured, recurring recognition system—such as weekly shout-outs, peer-nominated awards, or performance spotlights can significantly boost morale and reinforce positive behavior.
+
+2. Invest in Supervisor and Leadership Training: To address concerns around accountability and feedback, Pierce County should prioritize leadership development. Training programs should equip supervisors and managers with skills in performance management, constructive feedback, coaching, and employee motivation.
+
+3. Foster Stronger Workplace Relationships: Given the high disagreement with the statement “I have a best friend at work,” there is a clear need to build interpersonal connections. Encourage cross-departmental collaboration, social events, team retreats, and informal networking opportunities to help employees form meaningful relationships.
+
+4. Enhance Career Development Opportunities: Providing transparent career advancement paths, skill-building workshops, and mentoring programs can help address dissatisfaction among staff-level employees and foster a sense of growth and purpose.
+
+5. Target Department-Specific Interventions: Departments such as the Sheriff’s Office, which reported consistently lower engagement scores, require customized engagement strategies. These could include:
+   - Department-specific listening sessions
+   - Regular check-ins and wellness support
+   - Tactical improvement plans co-created with staff input
+
+7. Promote Inclusivity and Psychological Safety: Continue reinforcing inclusive practices while also ensuring psychological safety—where employees feel comfortable sharing feedback or concerns without fear of retaliation.
+
+By acting on these recommendations, Pierce County can create a more positive, productive, and engaged public workforce, ultimately improving service delivery to the community it serves.

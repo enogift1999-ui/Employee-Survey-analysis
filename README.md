@@ -2,7 +2,11 @@
 ![](https://github.com/enogift1999-ui/Employee-Survey-analysis/blob/main/employee-engagement-survey.jpg)
 
 ## INTRODUCTION
-This project analyzes employee engagement survey data to uncover key drivers of satisfaction and dissatisfaction across departments and roles. The aim is to identify strengths and weaknesses in organizational culture and provide actionable recommendations for improving employee experience.
+The Employee Engagement Survey was conducted by Pierce County, Washington, and completed voluntarily by government employees across various departments and roles. The purpose of the survey was to assess employee satisfaction, engagement, and workplace culture, providing insights into what the organization is doing well and where improvements are needed.
+
+The dataset analyzed contains 14,725 individual responses organized in a single-table format with 10 fields, each representing key aspects of employee experience such as supervision, recognition, accountability, inclusivity, and interpersonal relationships. Responses were categorized into levels of agreement or disagreement, and "Not Applicable" entries were excluded from the core analysis to ensure clarity in sentiment interpretation.
+
+This analysis focuses on identifying patterns of agreement and disagreement across survey questions, as well as detecting trends by department and employee role. The findings offer valuable guidance for organizational leaders aiming to improve workplace satisfaction and employee engagement. 
 
 ## DATA SOURCING
 Find the the link to the restaurant rating dataset here.[HERE](https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKOB8E/edit#gid=61186505)
